@@ -1,5 +1,5 @@
 ---
-title: Great coffee with a cat
+title: Great coffee with a dog
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
